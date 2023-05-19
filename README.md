@@ -1,9 +1,14 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">My name is Svetlana and I'm an analyst</h3>
 
+</br>
+
 - 📊 My dashboards [https://public.tableau.com/app/profile/svetlana.tsoi/](https://public.tableau.com/app/profile/svetlana.tsoi/)
 
 - 📄 Resume [https://drive.google.com/file/d/1fDM3nzuAgzn8MxmbJhvjPTcaDLKPmtTY](https://drive.google.com/file/d/1fDM3nzuAgzn8MxmbJhvjPTcaDLKPmtTY)
+</br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xbymzymx&label=Profile%20views&color=da5b0b&style=flat-square" alt="xbymzymx" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +36,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
+
+</br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xbymzymx&show_icons=true&theme=dark&locale=en&layout=compact" alt="xbymzymx" /></p>
