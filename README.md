@@ -24,13 +24,15 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
+
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://optim.tildacdn.com/tild6363-3862-4462-b866-356461646463/-/resize/112x/-/format/webp/AirflowLogo-2_1.png" alt="airflow" height="40"/></a> 
   
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssqlserver" width="40" height="40"/></a> 
 <a href="https://clickhouse.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="clickhouse" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a> 
-<a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/superset-icon-logo-D70353ADD5-seeklogo.com.png" alt="superset"/></a> 
+<a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/superset-icon-logo-D70353ADD5-seeklogo.com.png" alt="superset" height="40"/></a> 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40"/></a> 
 
 <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="google-sheets" width="40" height="40"/></a> 
