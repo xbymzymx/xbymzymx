@@ -32,7 +32,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a> 
-<a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/superset-icon-logo-D70353ADD5-seeklogo.com.png" alt="superset" height="40"/></a> 
+<a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/superset-icon-logo-D70353ADD5-seeklogo.com.png" alt="superset" width="40"/></a> 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="power-bi" width="40" height="40"/></a> 
 
 <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="google-sheets" width="40" height="40"/></a> 
