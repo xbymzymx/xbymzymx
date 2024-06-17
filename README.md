@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/svetlana-tsoi-84b291113" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="svetlana-tsoi-84b291113" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/svetlana-tsoi-84b291113" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="svetlana-tsoi" height="40" width="40" /></a>
 &nbsp;
 <a href="https://t.me/xbymzymx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="svetlana-tsoi-84b291113" height="40" width="40" /></a>
 &nbsp;
